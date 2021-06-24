@@ -1,6 +1,7 @@
 .DS_Store
 *.csv
 *.json
+config.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
